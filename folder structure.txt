@@ -1,0 +1,24 @@
+app/
+│
+├── config/
+│      database.php
+│
+├── controllers/
+│      AuthController.php
+│      VehicleController.php
+│      BookingController.php
+│      AdminController.php
+│
+├── models/
+│      User.php
+│      Vehicle.php
+│      Booking.php
+│
+├── views/
+│      login.php
+│      register.php
+│      dashboard.php
+│      booking.php
+│
+└── helpers/
+       auth.php

@@ -1,0 +1,15 @@
+Initial MVC project setup
+
+Added MySQL database schema
+
+Implemented user authentication
+
+Added vehicle management module
+
+Implemented booking workflow
+
+Created admin dashboard
+
+Improved UI using Bootstrap
+
+Updated README and documentation
